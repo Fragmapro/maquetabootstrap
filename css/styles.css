@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+    padding: 2px;
+}
+h1 {
+    color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+}h3 {
+    color: aliceblue;
+}h4 {
+    color: aliceblue;
+}h4 {
+    color: aliceblue;
+}
+.row {
+    padding: px;
+}
+.barra {
+    background-color: blueviolet;
+}
+.cajaborde {
+    border-style: solid;
+    border-color: blue;
+    height: 300px;
+
+}
